@@ -1,7 +1,7 @@
 # Ishikagupta
 Result-oriented professional, with 2 years of experience as UX Designer, pursuing a dynamic role in Full-Stack Development.
 <h1 align="center">Hi 👋, I'm Ishika Gupta</h1>
-<h3 align="center">Result-oriented professional,with 2 years of experience as UX Designer,pursuing a dynamic role in Full-stack Development and within the IT industry.</h3>
+<h3 align="center">Result-oriented professional,with 2 years of experience as UX Designer,pursuing a dynamic role in Full-stack Development within the IT industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamishikagupta&label=Profile%20views&color=0e75b6&style=flat" alt="iamishikagupta" /> </p>
 
